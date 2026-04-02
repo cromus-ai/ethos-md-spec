@@ -1,9 +1,9 @@
 # ETHOS.md Specification
 
-**Version:** 0.1.0 — Initial Draft
-**Status:** Open for community review
-**Maintainer:** [Cromus.ai](https://cromus.ai)
-**Published:** March 2026
+**Version:** 0.1.0 — Initial Draft  |
+**Status:** Open for community review  |
+**Maintainer:** [Cromus.ai](https://cromus.ai)  |
+**Published:** March 2026  |
 **Companion Spec:** [SKILL.md](https://github.com/cromus-ai/skill-md-spec)
 
 
