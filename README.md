@@ -6,6 +6,12 @@
 **Published:** March 2026
 **Companion Spec:** [SKILL.md](https://github.com/cromus-ai/skill-md-spec)
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Spec Version](https://img.shields.io/badge/spec-v1.0.0-blue.svg)](MEMORY.md)
+[![Validator](https://img.shields.io/badge/validator-cromus.ai%2Fvalidator%2Fethos-black.svg)](https://cromus.ai/validator/ethos)
+[![Part of the Cromus open spec stack](https://img.shields.io/badge/ecosystem-SKILL.md%20%C2%B7%20ETHOS.md%20%C2%B7%20MEMORY.md-purple.svg)](https://cromus.ai)
+
 ---
 
 ## What is ETHOS.md?
