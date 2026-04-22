@@ -531,7 +531,7 @@ You are free to use, share, and adapt this specification for any purpose, includ
 - [The Workflow Intelligence Manifesto](https://cromus.ai/manifesto) — the founding document defining Workflow Intelligence as a Service
 - [Cromus Platform](https://cromus.ai) — the reference implementation
 - [What are Croms?](https://cromus.ai/croms) — the proprietary metric for AI workflow waste
-- [ETHOS.md Validator](https://cromus.ai/validator) *(coming soon)* — validate your ETHOS.md files against this specification
+- [ETHOS.md Validator](https://cromus.ai/validator/ethos) — validate your ETHOS.md files against this specification
 
 ---
 
